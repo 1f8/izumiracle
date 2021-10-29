@@ -177,6 +177,41 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "16354910336a479018": {
+      "type": "image-with-text",
+      "blocks": {
+        "16354910336a479018-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "I want to be a superstar Classic T-Shirt"
+          }
+        },
+        "16354910336a479018-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Japanese says, \"I want to be a superstar\". Please enjoy!<\/p>"
+          }
+        },
+        "16354910336a479018-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Purchase page",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16354910336a479018-0",
+        "16354910336a479018-1",
+        "16354910336a479018-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image5.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -185,6 +220,7 @@
     "featured_products",
     "collage",
     "video",
-    "multi_column"
+    "multi_column",
+    "16354910336a479018"
   ]
 }
