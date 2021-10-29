@@ -137,6 +137,41 @@
         "full_width": false
       }
     },
+    "16354910336a479018": {
+      "type": "image-with-text",
+      "blocks": {
+        "16354910336a479018-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "I want to be a superstar Classic T-Shirt"
+          }
+        },
+        "16354910336a479018-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Japanese says, \"I want to be a superstar\". Please enjoy!<\/p>"
+          }
+        },
+        "16354910336a479018-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Purchase page",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16354910336a479018-0",
+        "16354910336a479018-1",
+        "16354910336a479018-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image5.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
@@ -178,36 +213,35 @@
         "swipe_on_mobile": false
       }
     },
-    "16354910336a479018": {
+    "1635493211210a4179": {
       "type": "image-with-text",
       "blocks": {
-        "16354910336a479018-0": {
+        "1635493211210a4179-0": {
           "type": "heading",
           "settings": {
-            "heading": "I want to be a superstar Classic T-Shirt"
+            "heading": "Image with text"
           }
         },
-        "16354910336a479018-1": {
+        "1635493211210a4179-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The Japanese says, \"I want to be a superstar\". Please enjoy!<\/p>"
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
-        "16354910336a479018-2": {
+        "1635493211210a4179-2": {
           "type": "button",
           "settings": {
-            "button_label": "Purchase page",
+            "button_label": "Button label",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "16354910336a479018-0",
-        "16354910336a479018-1",
-        "16354910336a479018-2"
+        "1635493211210a4179-0",
+        "1635493211210a4179-1",
+        "1635493211210a4179-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/image5.png",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -220,7 +254,8 @@
     "featured_products",
     "collage",
     "video",
+    "16354910336a479018",
     "multi_column",
-    "16354910336a479018"
+    "1635493211210a4179"
   ]
 }
