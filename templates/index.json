@@ -43,20 +43,20 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "I’m a native Japanese who have a deep passion for the language and decided to create a fun Japanese text product lines! Thank you so much for stopping by!",
+            "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>All of the desings were created by me!<\/p>"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "All products",
             "button_link": "",
             "button_style_secondary": false
           }
