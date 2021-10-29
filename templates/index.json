@@ -91,6 +91,7 @@
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "video": {
           "type": "video",
@@ -179,8 +180,9 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/image9.png",
+            "title": "I'm a cool therapist Long Sleeve T-Shirt",
+            "text": "<p>The Japanese says, \"I'm a cool therapist\". Please enjoy!<\/p>"
           }
         },
         "column2": {
@@ -232,7 +234,7 @@
         "16354935955bd221fe-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "japanese-kanji-collection"
           }
         }
       },
