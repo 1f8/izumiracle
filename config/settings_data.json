@@ -33,6 +33,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/2021-10-29_17.13.50.png",
           "logo_width": 100,
           "logo_position": "middle-left",
           "menu": "main-menu",
